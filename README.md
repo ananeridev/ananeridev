@@ -12,6 +12,6 @@ Javascript/Typescript | NodeJS | NestJS | Spring | Java | Docker | Kubernetes
 </div>
 
 
+
 A woman who loves to learn new things and apply them, and is always willing to help people along the way.
 
-In search of gender equality in the technology sector and passionate about communities!
