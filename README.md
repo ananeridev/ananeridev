@@ -11,4 +11,4 @@ Senior Software Engineer @ Pravaler
 
 Javascript/Typescript | NodeJS | NestJS | Spring | Java | Docker | Kubernetes
 
-I love code and sharing knowledge, and I love my pets too lol !
+Addicted to coding with examples of movies and series I like (my repositories don't lie LOL), and I also love sharing knowledge and acting in the communities of nodejs and female protagonism through technology.
