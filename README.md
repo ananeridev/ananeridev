@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/anabeatrizdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Senior Software Engineer @ Finclass/ GRUPO Primo
+Senior Software Engineer 
 
 Javascript/Typescript | NodeJS | NestJS | Spring | Java | Docker | Kubernetes
 
-Addicted to coding with examples of movies and series I like (my repositories don't lie LOL), and I also love sharing knowledge and acting in the communities of nodejs and female protagonism through technology.
