@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/anabeatrizdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Senior Software Engineer 
+Senior Software Engineer working for 🇺🇸
 
 Javascript/Typescript | NodeJS | NestJS | Spring | Java | Docker | Kubernetes
 
