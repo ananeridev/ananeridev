@@ -27,10 +27,11 @@
 > 🎤 I post content on dev careers, real-world architecture, advanced Node.js, and the hard lessons learned in production.
 
 <p align="center">
-  <a href="https://www.youtube.com/@AnaNeriDev" target="_blank">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nh5QpxQdK49EAKjsyXXBctiM5jVlxS9z2RUWix=s160-c-k-c0x00ffffff-no-rj" width="120" alt="Ana Neri YouTube Channel" />
+  <a href="https://www.youtube.com/@AnaNeriDev">
+    <img src="https://img.shields.io/badge/Visit%20my%20channel-YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 📌 Latest videos:
 - `Monorepos vs Microservices: who wins in real life?`
