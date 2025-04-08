@@ -13,7 +13,7 @@
 ### 💡 About me
 
 🌸 I like clean code, good coffee, and fast deploys.  
-🧠 Always chasing scalability without compromising simplicity.  
+🧠 Always chasing scalability with simplicity.  
 🎤 Speaker & content creator – sharing dev tips and real-world insights!  
 🎯 Passionate about developer experience and automated testing.  
 🎸 Bassist in my spare time (rarely, always playing in my room)
