@@ -69,15 +69,4 @@
   </a>
 </p>
 
----
 
-### 🔥 Latest Highlights
-
-- 🎙️ **Talk**: *Monorepos vs Microservices – The Scalability Battle*
-- 🌍 **Exploring**: Serverless vs Containers in production
-- 🧪 **Refactoring**: cleaner unit tests with `jest.spyOn` & `mockResolvedValue`
-- 💾 **Infra**: K8s optimizations for Node.js at scale + *Is your system ready for the chaos?*
-
----
-
-> 💬 “Talk is cheap, show me the code”
