@@ -8,6 +8,21 @@
   <code>AWS</code> • <code>Serverless</code> • <code>Kubernetes</code> • <code>Postgres</code> • <code>MongoDB</code>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@AnaNeriDev">
+    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ananeridev">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ananeridev">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ananeridevcontato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### ⚡ What I do
@@ -32,35 +47,3 @@
 👉 **[Watch the latest videos](https://www.youtube.com/@AnaNeriDev)**
 
 ---
-
-### 📊 GitHub at a glance
-
-<img
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api?username=ananeridev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=86400"
-/>
-
-<img
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananeridev&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-/>
-
-
----
-
-### 🔗 Find me
-
-<p align="center">
-  <a href="https://www.youtube.com/@AnaNeriDev">
-    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ananeridev">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ananeridev">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ananeridevcontato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
