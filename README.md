@@ -38,12 +38,6 @@
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBjoWT-P17Bl66D52RwqdGA?style=for-the-badge&color=FF69B4)](https://www.youtube.com/@AnaNeriDev)
 
-**Topics I cover**
-- Monorepos vs Microservices (what *actually* scales)
-- Advanced Node.js & NestJS
-- Serverless vs Containers
-- Refactoring & production pain stories
-
 👉 **[Watch the latest videos](https://www.youtube.com/@AnaNeriDev)**
 
 ---
