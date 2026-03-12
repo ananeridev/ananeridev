@@ -23,14 +23,6 @@
   </a>
 </p>
 
----
-
-### ⚡ What I do
-
-- 🧠 Design **scalable systems without unnecessary complexity**
-- 🧪 Strong advocate of **testing, DX, and observability with AI**
-- 🎤 Speaker & content creator (real-world engineering, no fluff)
-- 🎸 Bass player (low volume, high distortion)
 
 ---
 
